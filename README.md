@@ -5,7 +5,7 @@
 <div align="center">
    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
     <h1>Hi, I'm Emirhan</h1>
-    <p>A passionate Computer Programmer with skills in <b>JavaScript, HTML, CSS, Bootstrap, and MySQL</b>.</p>
+    <p>A passionate Computer Programmer with skills in <b>JavaScript, HTML, CSS, Bootstrap, and Sass</b>.</p>
 </div>
 
 
